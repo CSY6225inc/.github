@@ -8,16 +8,10 @@ Welcome to **CSY6225inc**! This organization hosts production-grade cloud-native
 
 ---
 
-### **🚀 Quick Start**  
-**1. Core Repositories**  
-| Repository | Purpose |  
-|------------|---------|  
-| [**webapp**](https://github.com/CSY6225inc/webapp) | Node.js backend API with health checks, S3 file management, and observability |  
-| [**tf-aws-infra**](https://github.com/CSY6225inc/tf-aws-infra) | Terraform modules for AWS VPC, Auto Scaling, RDS, and secure infrastructure |  
-
-**2. Architecture Diagram**  
+### **Architecture Diagram**  
 ![Detailed Architecture](https://github.com/CSY6225inc/.github/blob/main/profile/Cloud%20Architecture.png)  
-*Components: VPC, ALB, Auto Scaling, RDS, S3, CloudWatch* 
+
+###### Components: VPC, ALB, Auto Scaling, RDS, S3, CloudWatch* 
 ---
 
 ### **📦 Key Repositories**  
