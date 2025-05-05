@@ -64,7 +64,7 @@ graph TD
 ---
 
 ### **🔍 Architecture Diagram**  
-![Detailed Architecture](https://via.placeholder.com/800x600.png?text=CSY6225inc+Full+Architecture)  
+![Detailed Architecture](https://github.com/CSY6225inc/.github/blob/main/profile/Cloud%20Architecture.png)  
 *Components: VPC, ALB, Auto Scaling, RDS, S3, CloudWatch*  
 
 ---
